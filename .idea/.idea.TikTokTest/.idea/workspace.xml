@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d6c8874-026d-4856-b134-b5868b72235f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1659703317">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="4610" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="4610" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/AnchorController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreSession.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="62" column="37" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
+              <folding>
+                <marker date="1575344047000" expanded="true" signature="0:830" ph="/* ----------------------------------------------------------------------- ... */" />
+                <marker date="1575344047000" expanded="true" signature="854:8714" ph="{...}" />
+                <marker date="1575344047000" expanded="false" signature="867:949" ph="..." />
+                <marker date="1575344047000" expanded="true" signature="955:1057" ph="/// A component that manages the ARCore Session in a Unity scene. ... " />
+                <marker date="1575344047000" expanded="true" signature="1203:8712" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="1218:1537" ph="/// The direction of the device camera used by the session. ... " />
+                <marker date="1575344047000" expanded="true" signature="1719:1832" ph="/// A scriptable object specifying the ARCore session configuration. ... " />
+                <marker date="1575344047000" expanded="true" signature="1978:2151" ph="/// The camera configuration filter object that defines the set of ... " />
+                <marker date="1575344047000" expanded="true" signature="2388:3577" ph="/// Selects a camera configuration for the ARCore session being resumed. ... " />
+                <marker date="1575344047000" expanded="true" signature="3709:3770" ph="/// Unity Awake. ... " />
+                <marker date="1575344047000" expanded="true" signature="3892:4350" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4104:4280" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4360:4425" ph="/// Unity OnDestroy. ... " />
+                <marker date="1575344047000" expanded="true" signature="4434:4540" ph="[...]" />
+                <marker date="1575344047000" expanded="true" signature="4580:4654" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4664:4728" ph="/// Unity OnEnable. ... " />
+                <marker date="1575344047000" expanded="true" signature="4737:4847" ph="[...]" />
+                <marker date="1575344047000" expanded="true" signature="4878:4953" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4963:5028" ph="/// Unity OnDisable. ... " />
+                <marker date="1575344047000" expanded="true" signature="5037:5143" ph="[...]" />
+                <marker date="1575344047000" expanded="true" signature="5175:5251" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="5261:5327" ph="/// Unity OnValidate. ... " />
+                <marker date="1575344047000" expanded="true" signature="5360:7423" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="5471:6575" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="5574:5698" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="5972:6191" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="6245:6368" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="6435:6561" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="6777:6960" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="7000:7107" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="7152:7413" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="7433:8310" ph="/// Registers a callback that allows a camera configuration to be selected from a list of ... " />
+                <marker date="1575344047000" expanded="true" signature="8450:8543" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="8636:8706" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/AugmentedFacesExampleController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-960">
+              <folding>
+                <marker date="1575344047000" expanded="true" signature="0:848" ph="/* ----------------------------------------------------------------------- ... */" />
+                <marker date="1575344047000" expanded="true" signature="896:5023" ph="{...}" />
+                <marker date="1575344047000" expanded="false" signature="909:1009" ph="..." />
+                <marker date="1575344047000" expanded="true" signature="1015:1103" ph="/// Controller for the AugmentedFaces sample scene. ... " />
+                <marker date="1575344047000" expanded="true" signature="1168:5021" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="1183:1302" ph="/// The game object that renders the face attachment on an Augmented Face. ... " />
+                <marker date="1575344047000" expanded="true" signature="1354:1512" ph="/// True if the app is in the process of quitting due to an ARCore connection error, ... " />
+                <marker date="1575344047000" expanded="true" signature="1652:1726" ph="/// The Unity Awake() method. ... " />
+                <marker date="1575344047000" expanded="true" signature="1754:2011" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="1777:1955" ph="/* Enable ARCore to target 60fps camera capture frame rate on supported devices. ... */" />
+                <marker date="1575344047000" expanded="true" signature="2021:2094" ph="/// The Unity Update method. ... " />
+                <marker date="1575344047000" expanded="true" signature="2123:2755" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="2446:2589" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="2606:2745" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="2765:2857" ph="/// Check and update the application lifecycle. ... " />
+                <marker date="1575344047000" expanded="true" signature="2908:3870" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="3027:3091" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="3122:3174" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="3188:3292" ph="/* Quit if ARCore was unable to connect and give Unity some time for the toast to ... */" />
+                <marker date="1575344047000" expanded="true" signature="3367:3571" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="3618:3860" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="3880:3959" ph="/// Actually quit the application. ... " />
+                <marker date="1575344047000" expanded="true" signature="3990:4042" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4052:4210" ph="/// Show an Android toast message. ... " />
+                <marker date="1575344047000" expanded="true" signature="4272:5015" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4560:5005" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4748:4988" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/ARCoreAugmentedFaceRig.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="162" column="25" selection-start-line="162" selection-start-column="25" selection-end-line="162" selection-end-column="25" />
+              <folding>
+                <marker date="1575344047000" expanded="true" signature="0:839" ph="/* ----------------------------------------------------------------------- ... */" />
+                <marker date="1575344047000" expanded="true" signature="887:5808" ph="{...}" />
+                <marker date="1575344047000" expanded="false" signature="900:974" ph="..." />
+                <marker date="1575344047000" expanded="true" signature="980:1061" ph="/// Helper component to update face regions. ... " />
+                <marker date="1575344047000" expanded="true" signature="1141:5806" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="1156:1297" ph="/// If true, this component will update itself using the first AugmentedFace detected by ARCore. ... " />
+                <marker date="1575344047000" expanded="true" signature="1504:1723" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="2010:2148" ph="/// Gets or sets the ARCore AugmentedFace object that will be used to update the face region. ... " />
+                <marker date="1575344047000" expanded="true" signature="2191:2407" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="2217:2285" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="2302:2397" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="2417:2491" ph="/// The Unity Awake() method. ... " />
+                <marker date="1575344047000" expanded="true" signature="2519:2638" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="2648:2723" ph="/// The Unity Update() method. ... " />
+                <marker date="1575344047000" expanded="true" signature="2752:3367" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="2802:2854" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="2908:3232" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="3120:3218" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="3274:3326" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="3377:3485" ph="/// Method to initialize face region gameobject if not present. ... " />
+                <marker date="1575344047000" expanded="true" signature="3531:4161" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="3621:4151" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="3833:4073" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4248:4770" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4295:4354" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4403:4734" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4464:4534" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4649:4720" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4780:4878" ph="/// Update all face regions associated with the mesh. ... " />
+                <marker date="1575344047000" expanded="true" signature="4916:5800" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="5042:5264" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="5342:5790" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="5527:5776" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/ARCoreAugmentedFaceMeshFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="103" column="55" selection-start-line="103" selection-start-column="55" selection-end-line="103" selection-end-column="55" />
+              <folding>
+                <marker date="1578181914163" expanded="true" signature="0:846" ph="/* ----------------------------------------------------------------------- ... */" />
+                <marker date="1578181914163" expanded="true" signature="894:4578" ph="{...}" />
+                <marker date="1578181914163" expanded="false" signature="907:981" ph="..." />
+                <marker date="1578181914163" expanded="true" signature="987:1070" ph="/// Helper component to update face mesh data. ... " />
+                <marker date="1578181914163" expanded="true" signature="1176:4576" ph="{...}" />
+                <marker date="1578181914163" expanded="true" signature="1191:1332" ph="/// If true, this component will update itself using the first AugmentedFace detected by ARCore. ... " />
+                <marker date="1578181914163" expanded="true" signature="2035:2176" ph="/// Gets or sets the ARCore AugmentedFace object that will be used to update the face mesh data. ... " />
+                <marker date="1578181914163" expanded="true" signature="2219:2435" ph="{...}" />
+                <marker date="1578181914163" expanded="true" signature="2245:2313" ph="{...}" />
+                <marker date="1578181914163" expanded="true" signature="2330:2425" ph="{...}" />
+                <marker date="1578181914163" expanded="true" signature="2445:2519" ph="/// The Unity Awake() method. ... " />
+                <marker date="1578181914163" expanded="true" signature="2547:2810" ph="{...}" />
+                <marker date="1578181914163" expanded="true" signature="2820:2895" ph="/// The Unity Update() method. ... " />
+                <marker date="1578181914163" expanded="true" signature="2924:3685" ph="{...}" />
+                <marker date="1578181914163" expanded="true" signature="2987:3311" ph="{...}" />
+                <marker date="1578181914163" expanded="true" signature="3199:3297" ph="{...}" />
+                <marker date="1578181914163" expanded="true" signature="3353:3405" ph="{...}" />
+                <marker date="1578181914163" expanded="true" signature="3695:3815" ph="/// Update mesh with a face mesh vertices, texture coordinates and indices. ... " />
+                <marker date="1578181914163" expanded="true" signature="3850:4570" ph="{...}" />
+                <marker date="1578181914163" expanded="true" signature="4009:4304" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedFace.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1520">
+              <caret line="101" column="20" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="20" />
+              <folding>
+                <marker date="1575344047000" expanded="true" signature="0:830" ph="/* ----------------------------------------------------------------------- ... */" />
+                <marker date="1575344047000" expanded="true" signature="854:6611" ph="{...}" />
+                <marker date="1575344047000" expanded="false" signature="867:1067" ph="..." />
+                <marker date="1575344047000" expanded="true" signature="1073:1154" ph="/// A face detected and trackable by ARCore. ... " />
+                <marker date="1575344047000" expanded="true" signature="1205:6609" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="1220:1473" ph="/// Construct AugmentedFace from a native handle. ... " />
+                <marker date="1575344047000" expanded="true" signature="1594:1707" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="1717:2274" ph="/// Gets the position and orientation of the face's center in world space. ... " />
+                <marker date="1575344047000" expanded="true" signature="2305:2721" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="2331:2711" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="2388:2600" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="2731:3015" ph="/// Gets the position and orientation of a face region in world space. ... " />
+                <marker date="1575344047000" expanded="true" signature="3077:3476" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="3126:3320" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="3486:3924" ph="/// Gets the vertices of the face mesh. ... " />
+                <marker date="1575344047000" expanded="true" signature="3980:4315" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4029:4211" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4325:4663" ph="/// Gets a list of texture coordinates of the face mesh. ... " />
+                <marker date="1575344047000" expanded="true" signature="4739:5146" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="4788:5005" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="5156:5466" ph="/// Gets a list of normals of the face mesh. ... " />
+                <marker date="1575344047000" expanded="true" signature="5520:5852" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="5569:5750" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="5862:6174" ph="/// Gets a list of triangle indices of the face mesh. ... " />
+                <marker date="1575344047000" expanded="true" signature="6232:6603" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="6281:6495" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/HeadShakeExample.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="17" column="104" selection-start-line="17" selection-start-column="104" selection-end-line="17" selection-end-column="104" />
+              <folding>
+                <marker date="1578263005417" expanded="true" signature="6:44" ph="..." />
+                <marker date="1578263005417" expanded="true" signature="91:3342" ph="{...}" />
+                <marker date="1578263005417" expanded="true" signature="895:964" ph="/// Classic Unity initialization ... " />
+                <marker date="1578263005417" expanded="true" signature="989:1245" ph="{...}" />
+                <marker date="1578263005417" expanded="true" signature="1251:1437" ph="/// Game loop mostly for updating the average movement of user's head over the last 5 frames ... " />
+                <marker date="1578263005417" expanded="true" signature="1463:2622" ph="{...}" />
+                <marker date="1578263005417" expanded="true" signature="2345:2416" ph="{...}" />
+                <marker date="1578263005417" expanded="true" signature="2502:2590" ph="{...}" />
+                <marker date="1578263005417" expanded="true" signature="2632:2895" ph="/// Here we call the Launch() method of each SootSprite to make them fly off your head when you shake it ... " />
+                <marker date="1578263005417" expanded="true" signature="2927:3335" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ControlSoot.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <folding>
+                <marker date="1578260591026" expanded="true" signature="6:67" ph="..." />
+                <marker date="1578260591026" expanded="true" signature="111:3221" ph="{...}" />
+                <marker date="1578260591026" expanded="true" signature="928:1141" ph="/// This is where we randomize and initialize variables when a soot sprite instantiated ... " />
+                <marker date="1578260591026" expanded="true" signature="1166:1633" ph="{...}" />
+                <marker date="1578260591026" expanded="true" signature="1639:1794" ph="/// Standard Update() Gameloop logic to do different actions depending on the current state which we define with  ... " />
+                <marker date="1578260591026" expanded="true" signature="1820:2658" ph="{...}" />
+                <marker date="1578260591026" expanded="true" signature="1853:2652" ph="{...}" />
+                <marker date="1578260591026" expanded="true" signature="2664:2804" ph="/// A function that can be called to fling this Soot Sprite. Only used when the user shakes their head. ... " />
+                <marker date="1578260591026" expanded="true" signature="2829:3219" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedFaceRegion.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+              <folding>
+                <marker date="1575344047000" expanded="true" signature="0:836" ph="/* ----------------------------------------------------------------------- ... */" />
+                <marker date="1575344047000" expanded="true" signature="860:1525" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="867:1068" ph="/// Defines face regions for which the pose can be queried. Left and right of an Augmented Face ... " />
+                <marker date="1575344047000" expanded="true" signature="1104:1523" ph="{...}" />
+                <marker date="1575344047000" expanded="true" signature="1119:1214" ph="/// A region around the nose of the AugmentedFace. ... " />
+                <marker date="1575344047000" expanded="true" signature="1245:1349" ph="/// A region around the left forehead of the AugmentedFace. ... " />
+                <marker date="1575344047000" expanded="true" signature="1385:1490" ph="/// A region around the right forehead of the AugmentedFace. ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/AnchorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedFace.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/ARCoreAugmentedFaceRig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedFaceRegion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/ARCoreAugmentedFaceMeshFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/AugmentedFacesExampleController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/ControlSoot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/HeadShakeExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreSession.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/ARCoreAugmentedFaceMeshFilter.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/ControlSoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/HeadShakeExample.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="285" />
+    <option name="y" value="134" />
+    <option name="width" value="2154" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d6c8874-026d-4856-b134-b5868b72235f" name="Default Changelist" comment="" />
+      <created>1578084048904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578084048904</updated>
+      <workItem from="1578084053160" duration="19812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19812000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="285" y="134" width="2154" height="1100" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24976122" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/AnchorController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreSession.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="62" column="37" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
+          <folding>
+            <marker date="1575344047000" expanded="true" signature="0:830" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1575344047000" expanded="true" signature="854:8714" ph="{...}" />
+            <marker date="1575344047000" expanded="false" signature="867:949" ph="..." />
+            <marker date="1575344047000" expanded="true" signature="955:1057" ph="/// A component that manages the ARCore Session in a Unity scene. ... " />
+            <marker date="1575344047000" expanded="true" signature="1203:8712" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="1218:1537" ph="/// The direction of the device camera used by the session. ... " />
+            <marker date="1575344047000" expanded="true" signature="1719:1832" ph="/// A scriptable object specifying the ARCore session configuration. ... " />
+            <marker date="1575344047000" expanded="true" signature="1978:2151" ph="/// The camera configuration filter object that defines the set of ... " />
+            <marker date="1575344047000" expanded="true" signature="2388:3577" ph="/// Selects a camera configuration for the ARCore session being resumed. ... " />
+            <marker date="1575344047000" expanded="true" signature="3709:3770" ph="/// Unity Awake. ... " />
+            <marker date="1575344047000" expanded="true" signature="3892:4350" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4104:4280" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4360:4425" ph="/// Unity OnDestroy. ... " />
+            <marker date="1575344047000" expanded="true" signature="4434:4540" ph="[...]" />
+            <marker date="1575344047000" expanded="true" signature="4580:4654" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4664:4728" ph="/// Unity OnEnable. ... " />
+            <marker date="1575344047000" expanded="true" signature="4737:4847" ph="[...]" />
+            <marker date="1575344047000" expanded="true" signature="4878:4953" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4963:5028" ph="/// Unity OnDisable. ... " />
+            <marker date="1575344047000" expanded="true" signature="5037:5143" ph="[...]" />
+            <marker date="1575344047000" expanded="true" signature="5175:5251" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="5261:5327" ph="/// Unity OnValidate. ... " />
+            <marker date="1575344047000" expanded="true" signature="5360:7423" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="5471:6575" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="5574:5698" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="5972:6191" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="6245:6368" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="6435:6561" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="6777:6960" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="7000:7107" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="7152:7413" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="7433:8310" ph="/// Registers a callback that allows a camera configuration to be selected from a list of ... " />
+            <marker date="1575344047000" expanded="true" signature="8450:8543" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="8636:8706" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/ARCoreAugmentedFaceRig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="162" column="25" selection-start-line="162" selection-start-column="25" selection-end-line="162" selection-end-column="25" />
+          <folding>
+            <marker date="1575344047000" expanded="true" signature="0:839" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1575344047000" expanded="true" signature="887:5808" ph="{...}" />
+            <marker date="1575344047000" expanded="false" signature="900:974" ph="..." />
+            <marker date="1575344047000" expanded="true" signature="980:1061" ph="/// Helper component to update face regions. ... " />
+            <marker date="1575344047000" expanded="true" signature="1141:5806" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="1156:1297" ph="/// If true, this component will update itself using the first AugmentedFace detected by ARCore. ... " />
+            <marker date="1575344047000" expanded="true" signature="1504:1723" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="2010:2148" ph="/// Gets or sets the ARCore AugmentedFace object that will be used to update the face region. ... " />
+            <marker date="1575344047000" expanded="true" signature="2191:2407" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="2217:2285" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="2302:2397" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="2417:2491" ph="/// The Unity Awake() method. ... " />
+            <marker date="1575344047000" expanded="true" signature="2519:2638" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="2648:2723" ph="/// The Unity Update() method. ... " />
+            <marker date="1575344047000" expanded="true" signature="2752:3367" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="2802:2854" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="2908:3232" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="3120:3218" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="3274:3326" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="3377:3485" ph="/// Method to initialize face region gameobject if not present. ... " />
+            <marker date="1575344047000" expanded="true" signature="3531:4161" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="3621:4151" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="3833:4073" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4248:4770" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4295:4354" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4403:4734" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4464:4534" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4649:4720" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4780:4878" ph="/// Update all face regions associated with the mesh. ... " />
+            <marker date="1575344047000" expanded="true" signature="4916:5800" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="5042:5264" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="5342:5790" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="5527:5776" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedFaceRegion.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <marker date="1575344047000" expanded="true" signature="0:836" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1575344047000" expanded="true" signature="860:1525" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="867:1068" ph="/// Defines face regions for which the pose can be queried. Left and right of an Augmented Face ... " />
+            <marker date="1575344047000" expanded="true" signature="1104:1523" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="1119:1214" ph="/// A region around the nose of the AugmentedFace. ... " />
+            <marker date="1575344047000" expanded="true" signature="1245:1349" ph="/// A region around the left forehead of the AugmentedFace. ... " />
+            <marker date="1575344047000" expanded="true" signature="1385:1490" ph="/// A region around the right forehead of the AugmentedFace. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/AugmentedFacesExampleController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-960">
+          <folding>
+            <marker date="1575344047000" expanded="true" signature="0:848" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1575344047000" expanded="true" signature="896:5023" ph="{...}" />
+            <marker date="1575344047000" expanded="false" signature="909:1009" ph="..." />
+            <marker date="1575344047000" expanded="true" signature="1015:1103" ph="/// Controller for the AugmentedFaces sample scene. ... " />
+            <marker date="1575344047000" expanded="true" signature="1168:5021" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="1183:1302" ph="/// The game object that renders the face attachment on an Augmented Face. ... " />
+            <marker date="1575344047000" expanded="true" signature="1354:1512" ph="/// True if the app is in the process of quitting due to an ARCore connection error, ... " />
+            <marker date="1575344047000" expanded="true" signature="1652:1726" ph="/// The Unity Awake() method. ... " />
+            <marker date="1575344047000" expanded="true" signature="1754:2011" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="1777:1955" ph="/* Enable ARCore to target 60fps camera capture frame rate on supported devices. ... */" />
+            <marker date="1575344047000" expanded="true" signature="2021:2094" ph="/// The Unity Update method. ... " />
+            <marker date="1575344047000" expanded="true" signature="2123:2755" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="2446:2589" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="2606:2745" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="2765:2857" ph="/// Check and update the application lifecycle. ... " />
+            <marker date="1575344047000" expanded="true" signature="2908:3870" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="3027:3091" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="3122:3174" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="3188:3292" ph="/* Quit if ARCore was unable to connect and give Unity some time for the toast to ... */" />
+            <marker date="1575344047000" expanded="true" signature="3367:3571" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="3618:3860" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="3880:3959" ph="/// Actually quit the application. ... " />
+            <marker date="1575344047000" expanded="true" signature="3990:4042" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4052:4210" ph="/// Show an Android toast message. ... " />
+            <marker date="1575344047000" expanded="true" signature="4272:5015" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4560:5005" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4748:4988" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedFace.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="101" column="20" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="20" />
+          <folding>
+            <marker date="1575344047000" expanded="true" signature="0:830" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1575344047000" expanded="true" signature="854:6611" ph="{...}" />
+            <marker date="1575344047000" expanded="false" signature="867:1067" ph="..." />
+            <marker date="1575344047000" expanded="true" signature="1073:1154" ph="/// A face detected and trackable by ARCore. ... " />
+            <marker date="1575344047000" expanded="true" signature="1205:6609" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="1220:1473" ph="/// Construct AugmentedFace from a native handle. ... " />
+            <marker date="1575344047000" expanded="true" signature="1594:1707" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="1717:2274" ph="/// Gets the position and orientation of the face's center in world space. ... " />
+            <marker date="1575344047000" expanded="true" signature="2305:2721" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="2331:2711" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="2388:2600" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="2731:3015" ph="/// Gets the position and orientation of a face region in world space. ... " />
+            <marker date="1575344047000" expanded="true" signature="3077:3476" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="3126:3320" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="3486:3924" ph="/// Gets the vertices of the face mesh. ... " />
+            <marker date="1575344047000" expanded="true" signature="3980:4315" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4029:4211" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4325:4663" ph="/// Gets a list of texture coordinates of the face mesh. ... " />
+            <marker date="1575344047000" expanded="true" signature="4739:5146" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="4788:5005" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="5156:5466" ph="/// Gets a list of normals of the face mesh. ... " />
+            <marker date="1575344047000" expanded="true" signature="5520:5852" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="5569:5750" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="5862:6174" ph="/// Gets a list of triangle indices of the face mesh. ... " />
+            <marker date="1575344047000" expanded="true" signature="6232:6603" ph="{...}" />
+            <marker date="1575344047000" expanded="true" signature="6281:6495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/ARCoreAugmentedFaceMeshFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="103" column="55" selection-start-line="103" selection-start-column="55" selection-end-line="103" selection-end-column="55" />
+          <folding>
+            <marker date="1578181914163" expanded="true" signature="0:846" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1578181914163" expanded="true" signature="894:4578" ph="{...}" />
+            <marker date="1578181914163" expanded="false" signature="907:981" ph="..." />
+            <marker date="1578181914163" expanded="true" signature="987:1070" ph="/// Helper component to update face mesh data. ... " />
+            <marker date="1578181914163" expanded="true" signature="1176:4576" ph="{...}" />
+            <marker date="1578181914163" expanded="true" signature="1191:1332" ph="/// If true, this component will update itself using the first AugmentedFace detected by ARCore. ... " />
+            <marker date="1578181914163" expanded="true" signature="2035:2176" ph="/// Gets or sets the ARCore AugmentedFace object that will be used to update the face mesh data. ... " />
+            <marker date="1578181914163" expanded="true" signature="2219:2435" ph="{...}" />
+            <marker date="1578181914163" expanded="true" signature="2245:2313" ph="{...}" />
+            <marker date="1578181914163" expanded="true" signature="2330:2425" ph="{...}" />
+            <marker date="1578181914163" expanded="true" signature="2445:2519" ph="/// The Unity Awake() method. ... " />
+            <marker date="1578181914163" expanded="true" signature="2547:2810" ph="{...}" />
+            <marker date="1578181914163" expanded="true" signature="2820:2895" ph="/// The Unity Update() method. ... " />
+            <marker date="1578181914163" expanded="true" signature="2924:3685" ph="{...}" />
+            <marker date="1578181914163" expanded="true" signature="2987:3311" ph="{...}" />
+            <marker date="1578181914163" expanded="true" signature="3199:3297" ph="{...}" />
+            <marker date="1578181914163" expanded="true" signature="3353:3405" ph="{...}" />
+            <marker date="1578181914163" expanded="true" signature="3695:3815" ph="/// Update mesh with a face mesh vertices, texture coordinates and indices. ... " />
+            <marker date="1578181914163" expanded="true" signature="3850:4570" ph="{...}" />
+            <marker date="1578181914163" expanded="true" signature="4009:4304" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ControlSoot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <marker date="1578260591026" expanded="true" signature="6:67" ph="..." />
+            <marker date="1578260591026" expanded="true" signature="111:3221" ph="{...}" />
+            <marker date="1578260591026" expanded="true" signature="928:1141" ph="/// This is where we randomize and initialize variables when a soot sprite instantiated ... " />
+            <marker date="1578260591026" expanded="true" signature="1166:1633" ph="{...}" />
+            <marker date="1578260591026" expanded="true" signature="1639:1794" ph="/// Standard Update() Gameloop logic to do different actions depending on the current state which we define with  ... " />
+            <marker date="1578260591026" expanded="true" signature="1820:2658" ph="{...}" />
+            <marker date="1578260591026" expanded="true" signature="1853:2652" ph="{...}" />
+            <marker date="1578260591026" expanded="true" signature="2664:2804" ph="/// A function that can be called to fling this Soot Sprite. Only used when the user shakes their head. ... " />
+            <marker date="1578260591026" expanded="true" signature="2829:3219" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/HeadShakeExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="17" column="104" selection-start-line="17" selection-start-column="104" selection-end-line="17" selection-end-column="104" />
+          <folding>
+            <marker date="1578263005417" expanded="true" signature="6:44" ph="..." />
+            <marker date="1578263005417" expanded="true" signature="91:3342" ph="{...}" />
+            <marker date="1578263005417" expanded="true" signature="895:964" ph="/// Classic Unity initialization ... " />
+            <marker date="1578263005417" expanded="true" signature="989:1245" ph="{...}" />
+            <marker date="1578263005417" expanded="true" signature="1251:1437" ph="/// Game loop mostly for updating the average movement of user's head over the last 5 frames ... " />
+            <marker date="1578263005417" expanded="true" signature="1463:2622" ph="{...}" />
+            <marker date="1578263005417" expanded="true" signature="2345:2416" ph="{...}" />
+            <marker date="1578263005417" expanded="true" signature="2502:2590" ph="{...}" />
+            <marker date="1578263005417" expanded="true" signature="2632:2895" ph="/// Here we call the Launch() method of each SootSprite to make them fly off your head when you shake it ... " />
+            <marker date="1578263005417" expanded="true" signature="2927:3335" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
